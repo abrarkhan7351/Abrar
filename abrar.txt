@@ -1,0 +1,3 @@
+hello this my first git class 
+we started devOps today
+today we are learning new material
